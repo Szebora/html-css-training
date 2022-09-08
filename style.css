@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-style:solid; 
+  border-color: darkcyan;
+  border-radius: 5%;
+}
+.pokemon-name{
+  color: darkcyan;
+}
+.image {
+  width: 20vw;
+}
